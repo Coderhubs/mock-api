@@ -62,7 +62,7 @@ async function importData() {
       }
 
       const sanityProduct = {
-        _type: "car",
+        _type: "cars",
         id: product.id,
         name: product.name,
         type: product.type,
